@@ -10,5 +10,5 @@ alarm[0] = global.g_oneSecond;
 
 
 // Efectos de menu
-__isShowPressAny = true;
+__isShowPressEnter = true;
 alarm[1] = global.g_oneSecond * 0.25;
