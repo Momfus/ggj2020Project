@@ -1,8 +1,5 @@
 /// @description Datos de prueba a mostrar
 
-
-
-if( global.g_test ) {
 	
 	var l_aRatio = image_xscale;
 	
@@ -12,4 +9,3 @@ if( global.g_test ) {
 	
 	}
 
-}

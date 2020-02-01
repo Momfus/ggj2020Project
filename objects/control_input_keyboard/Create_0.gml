@@ -5,4 +5,3 @@ event_inherited();
 
 // Propio
 __currentInput = e_input.keyboard;
-

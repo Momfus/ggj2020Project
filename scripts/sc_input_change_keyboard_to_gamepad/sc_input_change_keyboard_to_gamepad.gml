@@ -5,10 +5,9 @@
 with( __currentPlayer ){
 
 	// Cambiar Input
+	instance_destroy(__inputID);
 	__inputID = sc_player_set_input( control_input_gamepad );
 	__inputID.__gamepadIsConnect = true;
 
 
 }
-
-instance_destroy();
