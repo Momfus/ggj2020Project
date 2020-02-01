@@ -29,8 +29,10 @@ sc_camera_create( ob_camera_follow_target )
 
 #region Instancias singleton
 
-	sc_instance_create_singleton( 0, 0, control_test );
+	
 	sc_instance_create_singleton(0, 0, control_display);
+	
+	sc_instance_create_singleton( 0, 0, control_test );
 
 #endregion
 

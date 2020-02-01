@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "129a31b3-d5ac-4030-9805-58d55e1404bf",
+            "Value": {
+                "id": "c612c8b5-a7a8-49e1-96c4-4d65f131588b",
+                "resourcePath": "objects\\parent_control_input\\parent_control_input.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2254924c-4cda-4c9b-96b2-68cc067fa89c",
             "Value": {
                 "id": "8abd02da-7f86-48d3-88b0-13519212d01d",
@@ -119,11 +127,27 @@
             }
         },
         {
+            "Key": "322a1d76-bb71-4044-9ffc-1010009c9e1b",
+            "Value": {
+                "id": "e7d3f057-a40c-4000-84c4-373f87d5fabc",
+                "resourcePath": "scripts\\sc_get_input_keyboard\\sc_get_input_keyboard.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "32d20246-a95a-4dad-bb22-7f4b3ca8ad3c",
             "Value": {
                 "id": "aa4f69bf-20ae-46fd-81f8-8698247ab210",
                 "resourcePath": "views\\32d20246-a95a-4dad-bb22-7f4b3ca8ad3c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "35fb787a-df83-435f-900e-cc4a0eba1d34",
+            "Value": {
+                "id": "d509508c-0a9b-4700-a719-812d9f861c89",
+                "resourcePath": "scripts\\sc_input_change_keyboard_to_gamepad\\sc_input_change_keyboard_to_gamepad.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -239,6 +263,14 @@
             }
         },
         {
+            "Key": "70049b3f-d753-4d05-99d5-de681cf4d845",
+            "Value": {
+                "id": "871a0f13-4d86-4910-a6c2-84f55a723678",
+                "resourcePath": "scripts\\sc_start_input\\sc_start_input.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "70cb4bc1-ddad-49f7-b7ca-0e905e55f9b9",
             "Value": {
                 "id": "6b9d280a-9b9e-4519-9f19-1a3bd216e09c",
@@ -268,6 +300,14 @@
                 "id": "e9bf8c90-49df-4816-9b0c-0666e58593b7",
                 "resourcePath": "objects\\parent_camera\\parent_camera.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "78ac55d7-28ca-4d9a-9426-45c3130b9c30",
+            "Value": {
+                "id": "3ed7d075-55ee-4a19-b618-55d61dddecc5",
+                "resourcePath": "scripts\\sc_input_change_gamepad_to_keyboard\\sc_input_change_gamepad_to_keyboard.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -308,6 +348,14 @@
                 "id": "1eb0423a-a895-4c0c-8b7f-84ed6f65fbbd",
                 "resourcePath": "scripts\\sc_cameraUpdateActivateRegion\\sc_cameraUpdateActivateRegion.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "891d0e2c-08c0-4540-bac5-30e5fec1755f",
+            "Value": {
+                "id": "18cdf038-c0d9-479b-a53f-90c54eada30f",
+                "resourcePath": "views\\891d0e2c-08c0-4540-bac5-30e5fec1755f.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -367,10 +415,34 @@
             }
         },
         {
+            "Key": "9e111faf-d519-4f3d-93b7-404d7272d2fa",
+            "Value": {
+                "id": "7cc9cefe-65e2-4c28-865e-d5ec5ca5cdd2",
+                "resourcePath": "scripts\\sc_gamepad_is_connected\\sc_gamepad_is_connected.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "9e554c3e-df07-442f-b8c9-d7e7cef04af8",
             "Value": {
                 "id": "17e6d796-da3b-492e-84df-5015f811bfdd",
                 "resourcePath": "views\\9e554c3e-df07-442f-b8c9-d7e7cef04af8.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9ff709e1-df4d-46c4-a9a2-a38a00861ce7",
+            "Value": {
+                "id": "491065fa-e986-4f7d-b9ef-9cbef98db532",
+                "resourcePath": "objects\\control_input_gamepad\\control_input_gamepad.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a0fa3448-6164-44a5-b7ba-904564435bcd",
+            "Value": {
+                "id": "a71f8856-4804-4913-970e-1516ca19d311",
+                "resourcePath": "views\\a0fa3448-6164-44a5-b7ba-904564435bcd.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -407,6 +479,14 @@
             }
         },
         {
+            "Key": "a7e6bf1e-1de8-4c34-8249-71c879582aaa",
+            "Value": {
+                "id": "8afd611b-3c95-4e45-b21e-2ab5ff1acbc7",
+                "resourcePath": "objects\\control_input_keyboard\\control_input_keyboard.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "5ab869d9-863d-4bc3-95ea-74d2a8e7378e",
@@ -415,11 +495,27 @@
             }
         },
         {
+            "Key": "ab734069-009b-4bd4-a50d-bd968a86fbf1",
+            "Value": {
+                "id": "d8c2fe25-fbe0-4c3f-a52b-99cf4e09dd74",
+                "resourcePath": "scripts\\sc_player_set_input\\sc_player_set_input.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "afc1c1c9-fc6e-40af-a8f3-d7e40604aa3f",
             "Value": {
                 "id": "84b75742-ac44-44de-8cd5-45791004956e",
                 "resourcePath": "scripts\\sc_layerCreateArrayName\\sc_layerCreateArrayName.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "b0b0aad9-a2eb-4568-9e57-adb62fee0683",
+            "Value": {
+                "id": "37313056-5099-448e-88bb-8d261fd8a013",
+                "resourcePath": "views\\b0b0aad9-a2eb-4568-9e57-adb62fee0683.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -468,6 +564,14 @@
                 "id": "d139ac17-322b-449d-8bfc-a51dccee69ad",
                 "resourcePath": "scripts\\sc_camera_set_follow_target\\sc_camera_set_follow_target.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "bd0afac4-826a-45c8-9402-8be2681b5221",
+            "Value": {
+                "id": "ebeacc3c-1081-46ff-9433-43fa7e7e9083",
+                "resourcePath": "sprites\\sp_controlSquare_type\\sp_controlSquare_type.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -599,6 +703,14 @@
             }
         },
         {
+            "Key": "e5ad7fb8-9a21-4893-8efe-2cd5fe900535",
+            "Value": {
+                "id": "8ab958cb-5570-42d6-995c-1798847f15bf",
+                "resourcePath": "scripts\\sc_get_input_gamepad\\sc_get_input_gamepad.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "e6f01e4e-31b1-4c4e-9038-2923669d7b6c",
             "Value": {
                 "id": "252e6b09-f1a8-42ca-ac0f-b0ee2623d866",
@@ -685,6 +797,14 @@
                 "resourcePath": "scripts\\sc_cameraUpdateRegionPreviousPosition\\sc_cameraUpdateRegionPreviousPosition.yy",
                 "resourceType": "GMScript"
             }
+        },
+        {
+            "Key": "ff6857e3-c174-4e61-9509-8501262ec59b",
+            "Value": {
+                "id": "cb0d0451-b25f-4afa-8d59-6e015273a224",
+                "resourcePath": "scripts\\sc_gamepadAnyButtonPress\\sc_gamepadAnyButtonPress.yy",
+                "resourceType": "GMScript"
+            }
         }
     ],
     "script_order": [
@@ -696,13 +816,21 @@
         "afc1c1c9-fc6e-40af-a8f3-d7e40604aa3f",
         "f41824d8-ce4b-42a5-a47b-6a45611f13b7",
         "bedf2c9a-2b5e-433d-bf86-6497d1eba723",
+        "70049b3f-d753-4d05-99d5-de681cf4d845",
+        "ff6857e3-c174-4e61-9509-8501262ec59b",
+        "35fb787a-df83-435f-900e-cc4a0eba1d34",
+        "322a1d76-bb71-4044-9ffc-1010009c9e1b",
+        "9e111faf-d519-4f3d-93b7-404d7272d2fa",
+        "78ac55d7-28ca-4d9a-9426-45c3130b9c30",
+        "e5ad7fb8-9a21-4893-8efe-2cd5fe900535",
         "2254924c-4cda-4c9b-96b2-68cc067fa89c",
         "6fc52e1a-d272-406f-9dab-461bd3dec84a",
         "ba3f271a-ed97-4e06-b3d6-5c57420dcef8",
         "6a2d3778-e894-424f-ae99-3e26eddfd83b",
         "639a0daf-ad36-40de-9139-02944cccf01d",
         "fef86471-2a6a-4df9-8363-228455a305eb",
-        "82725e89-2884-4ba1-9b18-8eea19874849"
+        "82725e89-2884-4ba1-9b18-8eea19874849",
+        "ab734069-009b-4bd4-a50d-bd968a86fbf1"
     ],
     "tutorial": ""
 }
