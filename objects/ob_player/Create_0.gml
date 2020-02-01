@@ -43,5 +43,5 @@ enum e_state_player {
 	
 }
 
-__stateCurrent_step = state_step_player_noControl;
-__stateCurrent = e_state_player.noControl;
+__stateCurrent_step = state_step_player_idle;
+__stateCurrent = e_state_player.idle;
