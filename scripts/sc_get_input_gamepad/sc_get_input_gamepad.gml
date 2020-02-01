@@ -45,6 +45,10 @@
 	__actionAttackMainRelease = gamepad_button_check_released(0, gp_shoulderrb);
 	__actionAttackSecondaryRelease = gamepad_button_check_released(0, gp_shoulderlb);
 	
+	
+	__actionStart = gamepad_button_value(0, gp_start );
+	__actionStartRelease = gamepad_button_check_released(0, gp_start );
+	
 	#endregion
 
 #endregion

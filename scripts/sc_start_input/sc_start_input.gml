@@ -22,6 +22,9 @@
 	__actionAttackMainRelease = false;
 	__actionAttackSecondaryRelease = false;
 	
+	__actionStart = false;
+	__actionStartRelease = false;
+	
 	#endregion
 
 #endregion

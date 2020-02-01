@@ -31,3 +31,17 @@
 #endregion
 
 
+#region Manejo estado jugador
+
+#endregion
+enum e_state_player {
+	
+	noControl,	// 0
+	idle,		// 1
+	move,		// 2
+	repair,		// 3
+	
+}
+
+__stateCurrent_step = state_step_player_noControl;
+__stateCurrent = e_state_player.noControl;
