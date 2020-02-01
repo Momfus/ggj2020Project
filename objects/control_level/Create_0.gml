@@ -1,0 +1,2 @@
+/// @description Iniciar atributos
+
