@@ -41,9 +41,17 @@ __vsp = (__vsp + __grv);
 			y = y + sign(__vsp);
 		}
 			
+		
 		__vsp = 0;
 	}
+	
+	var l_auxSolidMove = instance_place(x, y + 1, ob_solid_rectangle_1px_move) 
+	if( l_auxSolidMove != noone ) {
+	
+		__vsp = -l_auxSolidMove.__isMovRelative
 		
+	}
+	
 	y = clamp( y + __vsp, sprite_height, room_height );
 	
 #endregion

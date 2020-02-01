@@ -12,4 +12,4 @@ __testInputSpriteIndex = sp_controlSquare_type;
 // Reposicionar si al reiniciar el juego se cambia la resolución
 sc_guiElements_reposition();
 
-sc_test_on_off()
+//sc_test_on_off()
