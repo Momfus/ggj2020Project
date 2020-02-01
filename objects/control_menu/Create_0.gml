@@ -6,7 +6,7 @@ __halfRoomHeight = room_height * 0.5;
 
 // Delay para presionar cualquier tecla al empezar
 __canUseMenu = false;
-alarm[0] = global.g_oneSecond;
+alarm[0] = global.g_oneSecond * 0.25;
 
 
 // Efectos de menu

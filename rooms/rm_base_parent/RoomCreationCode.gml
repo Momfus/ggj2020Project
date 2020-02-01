@@ -1,0 +1,1 @@
+sc_camera_set_follow_target(ob_player, 0.05, ob_player.__bodyCenterOffsetY)

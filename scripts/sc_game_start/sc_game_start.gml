@@ -14,15 +14,18 @@
 global.g_oneSecond = game_get_speed(gamespeed_fps);
 global.g_currentCamera = undefined;
 
+
+// Usado para los rooms usados para nivel y sectores (no cuenta menues pero podria usarse)
+sc_layerCreateArrayName(); 
+
 #region Creación de cámara y seteo de views/ports
 
 __viewPortWidth = 1280;
 __viewPortHeight = 720;
 
+sc_camera_create( ob_camera_follow_target )
 
 #endregion
-
-sc_layerCreateArrayName();
 
 #region Instancias singleton
 
