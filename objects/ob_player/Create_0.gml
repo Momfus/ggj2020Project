@@ -27,21 +27,30 @@
 
 	#endregion
 	
+	__hsp = 0;
+	__vsp = 0;
+	__grv = 0.3;
+	__speed = 4;
+	
+	__canJump = 0;
+	
+	__spriteHalfWidth = sprite_width * 0.5;
 	
 #endregion
 
 
 #region Manejo estado jugador
 
-#endregion
-enum e_state_player {
+	enum e_state_player {
 	
 	noControl,	// 0
 	idle,		// 1
 	move,		// 2
 	repair,		// 3
 	
-}
+	}
 
-__stateCurrent_step = state_step_player_idle;
-__stateCurrent = e_state_player.idle;
+	__stateCurrent_step = state_step_player_idle;
+	__stateCurrent = e_state_player.idle;
+
+#endregion

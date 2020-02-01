@@ -39,11 +39,11 @@
 	
 	#region Acciones generales
 	
-	__actionAttackMain = gamepad_button_value(0, gp_shoulderrb);
-	__actionAttackSecondary = gamepad_button_value(0, gp_shoulderlb);
+	__actionAttackMain = gamepad_button_value(0, gp_face1);
+	__actionAttackSecondary = gamepad_button_value(0, gp_face2);
 	
-	__actionAttackMainRelease = gamepad_button_check_released(0, gp_shoulderrb);
-	__actionAttackSecondaryRelease = gamepad_button_check_released(0, gp_shoulderlb);
+	__actionAttackMainRelease = gamepad_button_check_released(0, gp_face1);
+	__actionAttackSecondaryRelease = gamepad_button_check_released(0, gp_face2);
 	
 	
 	__actionStart = gamepad_button_value(0, gp_start );

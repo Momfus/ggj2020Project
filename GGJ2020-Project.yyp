@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "0c739602-13a1-41aa-bb1f-533ea333c62c",
+            "Value": {
+                "id": "27b9af14-0e77-4532-9108-301361c04032",
+                "resourcePath": "scripts\\sc_player_state_change_to_move\\sc_player_state_change_to_move.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "112f29c3-8b0c-4d16-a8ce-ab7a4423ce6f",
             "Value": {
                 "id": "9d5f0372-30ad-448f-ad1c-1957cc42edb9",
@@ -519,6 +527,14 @@
             }
         },
         {
+            "Key": "ace24e03-d55c-4d8b-93d1-9379b966786f",
+            "Value": {
+                "id": "88a38dcb-3e7e-4c6f-997d-a5417ca28579",
+                "resourcePath": "scripts\\sc_player_state_change_to_idle\\sc_player_state_change_to_idle.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "afc1c1c9-fc6e-40af-a8f3-d7e40604aa3f",
             "Value": {
                 "id": "84b75742-ac44-44de-8cd5-45791004956e",
@@ -571,6 +587,14 @@
             "Value": {
                 "id": "e3b3f21a-3307-44a3-9e11-71145ce05885",
                 "resourcePath": "views\\b874cd4b-0efd-49c3-a39f-95124d87dad2.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b899ffea-b4b1-4635-8f37-0c00b11dc3e5",
+            "Value": {
+                "id": "2e4c2503-3d98-45e9-81b8-1b2cedbee5df",
+                "resourcePath": "views\\b899ffea-b4b1-4635-8f37-0c00b11dc3e5.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -865,7 +889,9 @@
         "ab734069-009b-4bd4-a50d-bd968a86fbf1",
         "e2559f83-748a-4f09-a466-78d0ff2da09a",
         "be88506f-b8f1-4c8c-9ccc-a1a0dc085cf7",
-        "772419ed-b643-49ac-9b80-ca0a1d459723"
+        "772419ed-b643-49ac-9b80-ca0a1d459723",
+        "ace24e03-d55c-4d8b-93d1-9379b966786f",
+        "0c739602-13a1-41aa-bb1f-533ea333c62c"
     ],
     "tutorial": ""
 }
