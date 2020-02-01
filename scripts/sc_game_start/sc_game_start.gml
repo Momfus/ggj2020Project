@@ -27,6 +27,7 @@ sc_layerCreateArrayName();
 #region Instancias singleton
 
 	sc_instance_create_singleton( 0, 0, control_test );
+	sc_instance_create_singleton(0, 0, control_display);
 
 #endregion
 
