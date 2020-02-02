@@ -53,8 +53,8 @@ __vsp = (__vsp + __grv);
 	
 	if (place_meeting(x, y + __vsp, parent_collision)) {
 			
-		while (!place_meeting(x, y + sign(__vsp), parent_collision)) {
-			y = y + sign(__vsp);
+		while (place_meeting(x, y + sign(__vsp), parent_collision)) {
+			y = y - sign(__vsp);
 		}
 			
 		
