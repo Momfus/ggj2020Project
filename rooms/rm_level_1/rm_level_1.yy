@@ -433,7 +433,7 @@
             "hspeed": 1,
             "htiled": true,
             "inheritLayerDepth": true,
-            "inheritLayerSettings": true,
+            "inheritLayerSettings": false,
             "inheritSubLayers": true,
             "inheritVisibility": true,
             "layers": [
@@ -443,7 +443,7 @@
             "m_serialiseFrozen": false,
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
-            "spriteId": "78df4398-084b-4778-b1da-08f81f43f542",
+            "spriteId": "a3107012-f8a6-47a3-a724-5826117e446c",
             "stretch": false,
             "userdefined_animFPS": false,
             "userdefined_depth": false,
