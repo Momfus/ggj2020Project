@@ -23,7 +23,9 @@ if( l_inputX == 0 ){
 #region Moverse
 
 
-	__hsp = (l_inputX * __speed) 
+	__hsp = (l_inputX * __speed);
+	
+	image_xscale = l_inputX;
 	
 
 #endregion

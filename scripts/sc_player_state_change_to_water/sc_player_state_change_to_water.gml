@@ -7,4 +7,9 @@
 __stateCurrent = e_state_player.water;
 	
 __stateCurrent_step = state_step_player_water;
-	
+
+
+sprite_index = sp_player_peron_move;
+image_index = 0;
+
+image_speed = 1.5

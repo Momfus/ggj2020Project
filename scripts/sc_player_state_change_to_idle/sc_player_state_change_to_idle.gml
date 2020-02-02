@@ -9,4 +9,6 @@ __stateCurrent = e_state_player.idle;
 __stateCurrent_step = state_step_player_idle;
 	
 __hsp = 0;
+sprite_index = sp_player_peron_idle;
+image_index = 0;
 image_speed = 0.5;	

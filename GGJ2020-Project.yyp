@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "0d044d57-653a-4b68-9e0d-07ca8dbcbeec",
+            "Value": {
+                "id": "ef63aafa-1440-421c-9e9e-2df8c825d043",
+                "resourcePath": "sprites\\sp_player_peron_idle\\sp_player_peron_idle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "112f29c3-8b0c-4d16-a8ce-ab7a4423ce6f",
             "Value": {
                 "id": "9d5f0372-30ad-448f-ad1c-1957cc42edb9",
@@ -636,6 +644,14 @@
                 "id": "88a38dcb-3e7e-4c6f-997d-a5417ca28579",
                 "resourcePath": "scripts\\sc_player_state_change_to_idle\\sc_player_state_change_to_idle.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "aee866f6-36e5-4a3b-bf12-da11e094d177",
+            "Value": {
+                "id": "cd169fd7-e49c-4f27-90d2-cabf7557a336",
+                "resourcePath": "sprites\\sp_player_peron_move\\sp_player_peron_move.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
