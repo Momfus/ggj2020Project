@@ -1,7 +1,7 @@
 /// @description Inicio atributos
 
-persistent = true;
 
+persistent = true;
 __guiDefaultWidth = control_game.__viewPortWidth;
 __guiDefaultHeight =  control_game.__viewPortHeight;
 

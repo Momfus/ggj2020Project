@@ -11,6 +11,7 @@
 #endregion
 
 
+
 global.g_oneSecond = game_get_speed(gamespeed_fps);
 global.g_currentCamera = undefined;
 
