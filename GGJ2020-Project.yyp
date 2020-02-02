@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "0a307fed-7f6c-42a0-95a8-fb8387ea1a9f",
+            "Value": {
+                "id": "d7ac5ab0-a8a2-4688-a85c-7ecc662803b1",
+                "resourcePath": "scripts\\sc_hitbox_collision_check_square\\sc_hitbox_collision_check_square.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "0c739602-13a1-41aa-bb1f-533ea333c62c",
             "Value": {
                 "id": "27b9af14-0e77-4532-9108-301361c04032",
@@ -1228,7 +1236,8 @@
         "87e389b5-0190-4fda-8412-42c26e3224a3",
         "0c739602-13a1-41aa-bb1f-533ea333c62c",
         "5ca4ded6-23b9-4342-a5d0-0c60cf094d15",
-        "5ab913b1-0d5b-4570-b4fd-f5fd06ae8a94"
+        "5ab913b1-0d5b-4570-b4fd-f5fd06ae8a94",
+        "0a307fed-7f6c-42a0-95a8-fb8387ea1a9f"
     ],
     "tutorial": ""
 }
