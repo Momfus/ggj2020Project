@@ -7,7 +7,8 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        "40dd0d45-850d-4894-a457-5dba533c22c9"
+        "40dd0d45-850d-4894-a457-5dba533c22c9",
+        "38ba40a5-698b-4322-b7a9-d2af3c77c54d"
     ],
     "IsDnD": false,
     "layers": [
@@ -197,7 +198,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-
+{"name": "inst_10F98C1F","id": "38ba40a5-698b-4322-b7a9-d2af3c77c54d","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_10F98C1F","objId": "fd1771ef-9426-4c49-8615-7e92281455b8","properties": null,"rotation": 0,"scaleX": 20,"scaleY": 3.5,"mvc": "1.1","x": 0,"y": 544}
             ],
             "layers": [
 
@@ -419,14 +420,14 @@
             "id": "990156e8-3a0b-4565-8288-5ef44b710a8e",
             "animationFPS": 15,
             "animationSpeedType": "0",
-            "colour": { "Value": 4278190080 },
+            "colour": { "Value": 4294967295 },
             "depth": 1500,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
             "hierarchyVisible": true,
             "hspeed": 0,
-            "htiled": false,
+            "htiled": true,
             "inheritLayerDepth": false,
             "inheritLayerSettings": false,
             "inheritSubLayers": false,
@@ -438,13 +439,13 @@
             "m_serialiseFrozen": false,
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
-            "spriteId": "00000000-0000-0000-0000-000000000000",
+            "spriteId": "a3107012-f8a6-47a3-a724-5826117e446c",
             "stretch": false,
             "userdefined_animFPS": false,
             "userdefined_depth": false,
             "visible": true,
             "vspeed": 0,
-            "vtiled": false,
+            "vtiled": true,
             "x": 0,
             "y": 0
         }
