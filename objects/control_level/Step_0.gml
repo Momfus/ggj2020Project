@@ -3,6 +3,7 @@
 if( !global.g_levelGameOver ) {
 	__lifeBoteCurrent = clamp( __lifeBoteCurrent, 0, __lifeBoteMax );
 
+
 	if( __lifeBoteCurrent <= 0 ) {
 	
 		global.g_levelGameOver = true;
@@ -11,6 +12,7 @@ if( !global.g_levelGameOver ) {
 		event_user(10);
 		
 	}
+	
 
 
 }

@@ -247,6 +247,22 @@
             }
         },
         {
+            "Key": "39473a6d-81f0-43c0-816e-666c6112cebb",
+            "Value": {
+                "id": "e15eae05-da34-4697-9464-7c190c09249a",
+                "resourcePath": "sprites\\sp_nubes\\sp_nubes.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "39a1f279-5f7b-4bb8-a94b-17cba407d8f4",
+            "Value": {
+                "id": "3f633c50-08eb-48e3-933e-f9fa5e84e068",
+                "resourcePath": "sprites\\sp_bote_base_pixelart_1\\sp_bote_base_pixelart_1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4208a3eb-bf7b-436c-8bd5-2286e0e016b6",
             "Value": {
                 "id": "ad600afb-8866-4b17-b03f-5f62fc2578b8",
@@ -290,7 +306,7 @@
             "Key": "5592fa0c-d43f-4969-8e71-dd03a5639a6b",
             "Value": {
                 "id": "39f7634f-ac47-4820-92d8-7fa57c197ec3",
-                "resourcePath": "sprites\\sp_bote_base_pixelart\\sp_bote_base_pixelart.yy",
+                "resourcePath": "sprites\\sp_bote_base_pixelart_0\\sp_bote_base_pixelart_0.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -951,6 +967,14 @@
             }
         },
         {
+            "Key": "c37d7935-c6dc-402b-b5de-0d9066ef7e71",
+            "Value": {
+                "id": "65b5a0f9-4cac-4245-8ebf-ce58b35af5ad",
+                "resourcePath": "sprites\\sp_bote_base_pixelart_2\\sp_bote_base_pixelart_2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c482b11f-d634-41be-8d32-563587598669",
             "Value": {
                 "id": "52d377c0-d3f7-4274-96ce-96fa6fefad31",
@@ -1051,14 +1075,6 @@
             "Value": {
                 "id": "867d7053-21a6-41a5-8133-0491f77a3aae",
                 "resourcePath": "sprites\\sp_danio_1\\sp_danio_1.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "d5abb3e1-6fcb-4841-acb9-5dd3609b6fe7",
-            "Value": {
-                "id": "1839ab86-31a8-4032-9aef-d003a281f740",
-                "resourcePath": "sprites\\sp_bote_base\\sp_bote_base.yy",
                 "resourceType": "GMSprite"
             }
         },

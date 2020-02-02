@@ -11,3 +11,5 @@ __scale = 1;
 __oscilacionScale = 0;
 
 __scaleDif = 0.1;
+
+sc_effect_screenShake(10, 5, 2);
