@@ -34,10 +34,13 @@
 	
 	__canJump = 0;
 	
-	__spriteHalfWidth = sprite_width * 0.5;
-	
 #endregion
 
+#region Propiedades sprite
+
+	__spriteHalfWidth = sprite_width * 0.5;
+
+#endregion
 
 #region Manejo estado jugador
 
