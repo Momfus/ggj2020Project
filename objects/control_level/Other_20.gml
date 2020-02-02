@@ -19,6 +19,10 @@ with( ob_bote_base ){
 
 }
 
-instance_create_layer(0, 0, global.g_arrayLayerNames[e_layer.control], control_gameOver)
+with( instance_create_layer(0, 0, global.g_arrayLayerNames[e_layer.control], control_gameOver) ) {
+
+	__score = other.__score;
+	
+}
 
 instance_destroy();

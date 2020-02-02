@@ -1,8 +1,8 @@
 /// @description Reducir vida bote
 
-var l_cantidadDanio = 0.005;
+var l_cantidadDanio = 0.001;
 
-if( sprite_index == sp_danio_1 ){ l_cantidadDanio = 0.01; }
+if( sprite_index == sp_danio_1 ){ l_cantidadDanio = 0.005; }
 
 with( control_level ) {
 

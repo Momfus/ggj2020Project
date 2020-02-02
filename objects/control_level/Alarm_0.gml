@@ -12,4 +12,4 @@ with( spawner_danio ) {
 	
 }
 
-alarm[0] = global.g_oneSecond * irandom_range(3, 5);
+alarm[0] = global.g_oneSecond * irandom_range(3, 5) * (1/__dificultad);

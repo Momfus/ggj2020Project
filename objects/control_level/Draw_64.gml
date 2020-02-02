@@ -21,5 +21,16 @@ if( !global.g_levelGameOver) {
 	draw_set_color(c_black)
 	sc_draw_rectangle_width(l_bordeIzq, 20 * l_aRatio, l_bordeIzq + l_bordeMax,  60 * l_aRatio, 2 * l_aRatio);
 
+	// Aviso saltar agua
+	if( ob_player.__isOnFire and __showJumpToWater ){
+	
+		sc_draw_text_font_transformed(global.g_guiHalfWidth - 1 * l_aRatio, global.g_guiHalfHeight - 151 * l_aRatio, "JUMP INTO THE WATER!!!", 2 * l_aRatio, 2 * l_aRatio, 0, fa_center, fa_middle, c_white);
+		sc_draw_text_font_transformed(global.g_guiHalfWidth, global.g_guiHalfHeight - 150 * l_aRatio, "JUMP INTO THE WATER!!!", 2 * l_aRatio, 2 * l_aRatio, 0, fa_center, fa_middle, c_red);
+	
+	}
+	
+	// Score
+	sc_draw_text_font_transformed(9 * l_aRatio, global.g_guiHeight - 49 * l_aRatio, "SCORE: " +  string(__score), 1.5 * l_aRatio, 1.5 * l_aRatio, 0, fa_left, fa_bottom, c_black);
+	sc_draw_text_font_transformed(10 * l_aRatio, global.g_guiHeight - 50 * l_aRatio, "SCORE: " +  string(__score), 1.5 * l_aRatio, 1.5 * l_aRatio, 0, fa_left, fa_bottom, c_white);
 
 }

@@ -1,12 +1,14 @@
 /// @description Inicio atributos
 
 __isEva = choose(true, true, true, false);
-
+__isOnFire = false;
 #region Atributos Generales
 
 	__bodyCenterOffsetY = -48;
 
 	__inputID = sc_player_set_input(control_input_keyboard);
+	
+	__effectFlashHurtAmount = 0;
 	
 	#region Corroborar si ya tiene conectado un joystick al empezar
 
