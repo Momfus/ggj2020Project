@@ -21,7 +21,7 @@
 	__actionAttackSecondary = keyboard_check( ord("K") );
 	
 	__actionAttackMainRelease =  keyboard_check_released( ord("J") );
-	__actionAttackSecondaryRelease = keyboard_check_released( ord("K") );
+	__actionAttackSecondaryRelease = keyboard_check_pressed( ord("K") );
 
 	__actionStart = keyboard_check( vk_enter );
 	__actionStartRelease = keyboard_check_released( vk_enter );

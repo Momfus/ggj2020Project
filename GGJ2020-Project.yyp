@@ -295,6 +295,14 @@
             }
         },
         {
+            "Key": "5ca4ded6-23b9-4342-a5d0-0c60cf094d15",
+            "Value": {
+                "id": "94f99fc5-35f1-4b09-87ba-c94279744d05",
+                "resourcePath": "scripts\\sc_player_state_change_to_fix\\sc_player_state_change_to_fix.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "5fc997cc-9ab0-496e-b64a-ef1843167ba3",
             "Value": {
                 "id": "b8ef49d0-2542-4421-9fb1-ba6a8916160e",
@@ -524,6 +532,14 @@
                 "id": "e8d2f550-5d00-4500-80aa-fb2b12302be3",
                 "resourcePath": "views\\8e3a62e3-c2fa-46ce-9858-83769b030d93.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8ea2b3c5-d7dd-4de7-a3b2-d346200c7f68",
+            "Value": {
+                "id": "25604c1d-7112-4800-9c37-b6ae492ea513",
+                "resourcePath": "sprites\\sp_player_peron_fix\\sp_player_peron_fix.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -871,6 +887,14 @@
             }
         },
         {
+            "Key": "d175d07e-97ad-4aa3-96ef-46a9515771cd",
+            "Value": {
+                "id": "220a721c-6d05-44c4-8a2e-256a03eefbf0",
+                "resourcePath": "scripts\\state_step_player_fix\\state_step_player_fix.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "d5abb3e1-6fcb-4841-acb9-5dd3609b6fe7",
             "Value": {
                 "id": "1839ab86-31a8-4032-9aef-d003a281f740",
@@ -1075,12 +1099,14 @@
         "82725e89-2884-4ba1-9b18-8eea19874849",
         "ab734069-009b-4bd4-a50d-bd968a86fbf1",
         "e2559f83-748a-4f09-a466-78d0ff2da09a",
+        "d175d07e-97ad-4aa3-96ef-46a9515771cd",
         "8d2f1900-2e32-4df4-86d7-bc0f80c3e166",
         "be88506f-b8f1-4c8c-9ccc-a1a0dc085cf7",
         "772419ed-b643-49ac-9b80-ca0a1d459723",
         "ace24e03-d55c-4d8b-93d1-9379b966786f",
         "87e389b5-0190-4fda-8412-42c26e3224a3",
         "0c739602-13a1-41aa-bb1f-533ea333c62c",
+        "5ca4ded6-23b9-4342-a5d0-0c60cf094d15",
         "5ab913b1-0d5b-4570-b4fd-f5fd06ae8a94"
     ],
     "tutorial": ""

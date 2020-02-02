@@ -43,7 +43,7 @@
 	__actionAttackSecondary = gamepad_button_value(0, gp_face2);
 	
 	__actionAttackMainRelease = gamepad_button_check_released(0, gp_face1);
-	__actionAttackSecondaryRelease = gamepad_button_check_released(0, gp_face2);
+	__actionAttackSecondaryRelease = gamepad_button_check_pressed(0, gp_face2);
 	
 	
 	__actionStart = gamepad_button_value(0, gp_start );

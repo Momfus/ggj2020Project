@@ -26,7 +26,7 @@ if( __canUseMenu ) {
 }
 
 // Para salir
-sc_draw_text_font_transformed(__halfRoomWidth, __halfRoomHeight + 260, "ESC = QUIT GAME", 2, 2, 0, fa_center, fa_top, c_white);
+sc_draw_text_font_transformed(__halfRoomWidth, __halfRoomHeight + 260, "ESC = QUIT GAME\nR = Restart\nR = Windowed / Fullscreen", 1.5, 1.5, 0, fa_center, fa_top, c_white);
 
 // Indicaciones teclado
 sc_draw_text_font_transformed(10, room_height - 160, "<<Keyboard>>\n A/D = move \n J = jump\n K=Fix", 1.5, 1.5, 0, fa_left, fa_top, c_white);
