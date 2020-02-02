@@ -17,3 +17,6 @@ if( __isEva ) {
 image_index = 0;
 
 image_speed = 1
+
+// Creacion del hitbox
+__hitboxID = instance_create_layer(x + sign(image_xscale) * 24 , y, global.g_arrayLayerNames[e_layer.hitbox_hurtbox], ob_hitbox)

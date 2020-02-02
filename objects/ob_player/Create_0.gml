@@ -37,6 +37,8 @@ __isEva = choose(true, true, true, false);
 	
 	__canJump = 0;
 	
+	__hitboxID = noone;
+	
 #endregion
 
 #region Propiedades sprite
