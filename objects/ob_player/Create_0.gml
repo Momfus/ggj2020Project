@@ -29,6 +29,7 @@
 	
 	__hsp = 0;
 	__vsp = 0;
+	__grvBase = 0.3;
 	__grv = 0.3;
 	__speed = 4;
 	
@@ -50,6 +51,7 @@
 	idle,		// 1
 	move,		// 2
 	repair,		// 3
+	water		//4
 	
 	}
 

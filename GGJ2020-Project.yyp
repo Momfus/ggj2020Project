@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "2d260221-f8ed-4ea3-9ecc-e7d83e9fbf65",
+            "Value": {
+                "id": "19bf954f-d8d2-4bd3-9bbb-455c318f0896",
+                "resourcePath": "scripts\\sc_approach\\sc_approach.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "3046f54a-7309-4ab8-83f2-ced89edb8e05",
             "Value": {
                 "id": "98d7bc34-a1c0-47d2-8446-c9f9aac016f9",
@@ -431,6 +439,14 @@
             }
         },
         {
+            "Key": "87e389b5-0190-4fda-8412-42c26e3224a3",
+            "Value": {
+                "id": "ebce1d09-e23e-4dec-9372-b4a6d086d4b7",
+                "resourcePath": "scripts\\sc_player_state_change_to_water\\sc_player_state_change_to_water.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "888e7b0b-e1f6-4fb8-821f-5e2673305c88",
             "Value": {
                 "id": "3c915951-222e-4b2d-ac03-f66b60b391bd",
@@ -452,6 +468,14 @@
                 "id": "083d277f-9c0c-4320-b6ec-4287c7a649a7",
                 "resourcePath": "sprites\\sp_water\\sp_water.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8d2f1900-2e32-4df4-86d7-bc0f80c3e166",
+            "Value": {
+                "id": "64911041-8afe-494a-a8a8-b445294abd84",
+                "resourcePath": "scripts\\state_step_player_water\\state_step_player_water.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -743,6 +767,14 @@
             }
         },
         {
+            "Key": "cc2392b4-d972-48ed-a0c9-d6fcd7249156",
+            "Value": {
+                "id": "fc3b944b-3b13-44b7-8b1a-5592b370d921",
+                "resourcePath": "scripts\\sc_approach_smooth\\sc_approach_smooth.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "cc5eb5b5-836a-4dda-83b8-072355a411aa",
             "Value": {
                 "id": "3004a722-4593-4fd5-b1a7-fdc9d1a14db7",
@@ -973,6 +1005,8 @@
         "e3aaed6d-2ccb-44c6-8c53-a0b8a2b44f23",
         "073a6f58-c773-4119-ac5d-da9d521340e7",
         "0845a501-dbb7-4207-ba2b-a8e2550ef8d0",
+        "cc2392b4-d972-48ed-a0c9-d6fcd7249156",
+        "2d260221-f8ed-4ea3-9ecc-e7d83e9fbf65",
         "7ea8abcc-1e84-474e-91cc-4df50a9ee87c",
         "afc1c1c9-fc6e-40af-a8f3-d7e40604aa3f",
         "f41824d8-ce4b-42a5-a47b-6a45611f13b7",
@@ -993,9 +1027,11 @@
         "82725e89-2884-4ba1-9b18-8eea19874849",
         "ab734069-009b-4bd4-a50d-bd968a86fbf1",
         "e2559f83-748a-4f09-a466-78d0ff2da09a",
+        "8d2f1900-2e32-4df4-86d7-bc0f80c3e166",
         "be88506f-b8f1-4c8c-9ccc-a1a0dc085cf7",
         "772419ed-b643-49ac-9b80-ca0a1d459723",
         "ace24e03-d55c-4d8b-93d1-9379b966786f",
+        "87e389b5-0190-4fda-8412-42c26e3224a3",
         "0c739602-13a1-41aa-bb1f-533ea333c62c",
         "5ab913b1-0d5b-4570-b4fd-f5fd06ae8a94"
     ],

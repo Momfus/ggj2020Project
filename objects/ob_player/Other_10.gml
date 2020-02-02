@@ -7,8 +7,16 @@ __vsp = (__vsp + __grv);
 	
 	__canJump = clamp( __canJump - 1, 0, 10  );
 
-	if ( place_meeting(x, y + 1, parent_collision) ) {
+	if ( place_meeting(x, y + 1, parent_collision) or (__grv == 0 and (y == ob_water.y + 39) ) ) {
 		__canJump = 10; // Delay
+		
+		if( __stateCurrent == e_state_player.water ) {
+		
+			y = ob_water.y + 38;
+			__grv = __grvBase;
+			sc_player_state_change_to_move();
+		
+		}
 	}
 
 	if ( __canJump > 0) && ( __inputID.__actionAttackMain) {
