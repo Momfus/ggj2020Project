@@ -12,7 +12,7 @@ __rotIcoBote = 22;
 alarm[11] = global.g_oneSecond * 0.5;
 
 __lifeBoteMax = 1;
-__lifeBoteCurrent = 0.1// __lifeBoteMax;
+__lifeBoteCurrent = __lifeBoteMax;
 
 // Reposicionar si al reiniciar el juego se cambia la resolución
 sc_guiElements_reposition();
