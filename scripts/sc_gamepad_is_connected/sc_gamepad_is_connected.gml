@@ -22,7 +22,7 @@ switch(async_load[? "event_type"]){
 		var pad = async_load[? "pad_index"];
 		
 		gamepad_set_axis_deadzone(pad, 0.5);      
-		gamepad_set_button_threshold(pad, 0.1);    
+		gamepad_set_button_threshold(pad, 0.5);    
      
         l_isConnected = true;
 		 

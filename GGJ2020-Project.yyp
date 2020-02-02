@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "5592fa0c-d43f-4969-8e71-dd03a5639a6b",
+            "Value": {
+                "id": "39f7634f-ac47-4820-92d8-7fa57c197ec3",
+                "resourcePath": "sprites\\sp_bote_base_pixelart\\sp_bote_base_pixelart.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "55c5768c-9ddf-49f2-9d4b-cc2efa2a597b",
             "Value": {
                 "id": "ea44d8b7-cbaa-4060-bfd9-2bddd4c01c52",

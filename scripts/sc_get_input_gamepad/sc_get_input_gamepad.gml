@@ -7,7 +7,7 @@
 
 	#region Movimiento
 
-	var l_axisLH =  gamepad_axis_value(0, gp_axislh),
+	var l_axisLH =  ceil(gamepad_axis_value(0, gp_axislh)),
 		l_axisLV =  gamepad_axis_value(0, gp_axislv);
 		
 	__inputMoveIntensity = point_distance(0, 0, l_axisLH, l_axisLV);

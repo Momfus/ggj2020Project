@@ -10,6 +10,15 @@
 
 #endregion
 
+enum e_state_player {
+	
+	noControl,	// 0
+	idle,		// 1
+	move,		// 2
+	repair,		// 3
+	water		//4
+	
+	}
 
 
 global.g_oneSecond = game_get_speed(gamespeed_fps);

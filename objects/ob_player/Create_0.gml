@@ -47,16 +47,7 @@
 
 #region Manejo estado jugador
 
-	enum e_state_player {
 	
-	noControl,	// 0
-	idle,		// 1
-	move,		// 2
-	repair,		// 3
-	water		//4
-	
-	}
-
 	__stateCurrent_step = state_step_player_idle;
 	__stateCurrent = e_state_player.idle;
 

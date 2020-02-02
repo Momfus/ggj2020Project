@@ -21,4 +21,4 @@ __collisionSolidId = sc_create_collision_solid_1px_move(bbox_left, bbox_top, l_c
 __oscilacionPos = 0;
 
 __yPosOrigin = y;
-__yPosDif = 15;
+__yPosDif = 10;
