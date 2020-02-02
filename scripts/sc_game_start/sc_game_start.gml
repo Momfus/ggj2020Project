@@ -42,6 +42,7 @@ sc_camera_create( ob_camera_follow_target )
 	
 	sc_instance_create_singleton(0, 0, control_display);
 	
+	sc_instance_create_singleton( 0, 0, control_music );
 	sc_instance_create_singleton( 0, 0, control_test );
 
 #endregion

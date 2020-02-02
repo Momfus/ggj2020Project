@@ -1,18 +1,18 @@
 {
-    "id": "f13e1bb9-6442-4760-85f0-501263de899b",
+    "id": "bade3ee5-6416-42a6-aecd-7fcb0c087404",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "control_game",
+    "name": "control_music",
     "eventList": [
         {
-            "id": "14e4db99-7d0f-4df7-baf0-28bd9d43d72a",
+            "id": "d554b4bb-1559-48b5-ae04-8c845a75b60c",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "f13e1bb9-6442-4760-85f0-501263de899b"
+            "m_owner": "bade3ee5-6416-42a6-aecd-7fcb0c087404"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -31,23 +31,8 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": [
-        {
-            "id": "79f481ef-d7e3-40cc-af54-37fb429abe45",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "rm_intro",
-            "varName": "__roomStart",
-            "varType": 5
-        }
-    ],
+    "properties": null,
     "solid": false,
-    "spriteId": "9ac40883-e847-42fd-aae6-330122426862",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": false
 }

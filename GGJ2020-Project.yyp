@@ -367,6 +367,14 @@
             }
         },
         {
+            "Key": "61d8bb4e-8a6c-4c5e-b0ab-59a851a2256a",
+            "Value": {
+                "id": "2ff20368-9b4d-4ab0-b2ca-383619986ef7",
+                "resourcePath": "views\\61d8bb4e-8a6c-4c5e-b0ab-59a851a2256a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "6349579d-ac9d-4ad6-9049-87208e6777a8",
             "Value": {
                 "id": "087cd7e9-a61b-4eb4-87f6-01796c9c4815",
@@ -607,6 +615,14 @@
             }
         },
         {
+            "Key": "89e02356-20c3-4673-8d84-5721536f41aa",
+            "Value": {
+                "id": "31e53faa-3271-428e-8241-482e5ba1514d",
+                "resourcePath": "sprites\\sp_intro_cartel\\sp_intro_cartel.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8a1a1842-1c8b-49e7-a749-a732a47eabd6",
             "Value": {
                 "id": "7a063a4d-b832-42e5-80a9-8ec49a6efc14",
@@ -732,6 +748,14 @@
                 "id": "15a5578e-ddb1-4d15-911b-f371f056a0ee",
                 "resourcePath": "scripts\\macros\\macros.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "a22ec837-211d-46c5-8564-0f89a942d961",
+            "Value": {
+                "id": "98b8d2f2-9f56-4b7f-8afd-c726fbb262ad",
+                "resourcePath": "rooms\\rm_intro\\rm_intro.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -927,11 +951,27 @@
             }
         },
         {
+            "Key": "bade3ee5-6416-42a6-aecd-7fcb0c087404",
+            "Value": {
+                "id": "7ee4491e-72d9-437e-ab89-47870d7df533",
+                "resourcePath": "objects\\control_music\\control_music.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "bd0afac4-826a-45c8-9402-8be2681b5221",
             "Value": {
                 "id": "ebeacc3c-1081-46ff-9433-43fa7e7e9083",
                 "resourcePath": "sprites\\sp_controlSquare_type\\sp_controlSquare_type.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "be3b2ca7-eb5d-4b33-a284-f397fbcb6cd8",
+            "Value": {
+                "id": "6b998de7-c7ee-46d1-8d51-f3953bef40eb",
+                "resourcePath": "objects\\control_intro\\control_intro.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1103,6 +1143,14 @@
             }
         },
         {
+            "Key": "df3f6c52-0421-47ec-a0d8-8a41fed00bf8",
+            "Value": {
+                "id": "e1f8ec00-47b3-4c06-9a16-9b0581360a20",
+                "resourcePath": "views\\df3f6c52-0421-47ec-a0d8-8a41fed00bf8.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "e1f855e0-2977-4a9a-8d31-6cddc963bb42",
             "Value": {
                 "id": "6e72eefb-bf8f-4daa-b2d9-4205728fa96a",
@@ -1172,6 +1220,14 @@
                 "id": "73744eaf-9cfa-4935-aa65-ab5c9a3fec59",
                 "resourcePath": "views\\eb2daacb-fe64-4604-bb51-a5a5985d65ba.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "eea22ae0-03c5-4314-a949-33edb7261c4d",
+            "Value": {
+                "id": "2f75b701-123d-41db-b7f4-10c9fc6f0e53",
+                "resourcePath": "sounds\\music_marchaPeron\\music_marchaPeron.yy",
+                "resourceType": "GMSound"
             }
         },
         {

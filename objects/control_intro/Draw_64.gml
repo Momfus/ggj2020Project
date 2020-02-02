@@ -1,0 +1,3 @@
+/// @description Insert description here
+sc_draw_text_font_transformed(9 *image_xscale, global.g_guiHeight - 19 * image_xscale, " PRESS ENTER TO SKIP INTRO", 1.5 * image_xscale, 1.5 * image_yscale, 0, fa_left, fa_bottom, c_yellow )
+sc_draw_text_font_transformed(10 *image_xscale, global.g_guiHeight - 20 * image_xscale, " PRESS ENTER TO SKIP INTRO", 1.5 * image_xscale, 1.5 * image_yscale, 0, fa_left, fa_bottom, c_white )
