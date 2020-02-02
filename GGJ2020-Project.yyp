@@ -303,6 +303,14 @@
             }
         },
         {
+            "Key": "5f143d5c-61f1-4544-95d6-720cf6c26012",
+            "Value": {
+                "id": "ed7ff572-990d-48d2-8f96-c89090868453",
+                "resourcePath": "views\\5f143d5c-61f1-4544-95d6-720cf6c26012.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "5fc997cc-9ab0-496e-b64a-ef1843167ba3",
             "Value": {
                 "id": "b8ef49d0-2542-4421-9fb1-ba6a8916160e",
@@ -511,6 +519,14 @@
             }
         },
         {
+            "Key": "8a1a1842-1c8b-49e7-a749-a732a47eabd6",
+            "Value": {
+                "id": "7a063a4d-b832-42e5-80a9-8ec49a6efc14",
+                "resourcePath": "sprites\\sp_player_eva_fix\\sp_player_eva_fix.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8d2f1900-2e32-4df4-86d7-bc0f80c3e166",
             "Value": {
                 "id": "64911041-8afe-494a-a8a8-b445294abd84",
@@ -647,6 +663,14 @@
             }
         },
         {
+            "Key": "a5132f20-b00e-41f9-b80a-abc273bd6cfa",
+            "Value": {
+                "id": "1b0c7dc7-075b-46f2-8eb9-9bee8cb2a937",
+                "resourcePath": "sprites\\sp_player_eva_idle\\sp_player_eva_idle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a73e4adf-bacf-44e9-84e0-6b145ecad4f2",
             "Value": {
                 "id": "72488c94-3fee-4aa6-ae47-668628ab64f9",
@@ -668,6 +692,14 @@
                 "id": "5ab869d9-863d-4bc3-95ea-74d2a8e7378e",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "a9ef18b7-3b53-42f3-b995-24dd3fff6550",
+            "Value": {
+                "id": "d98530a1-68c0-4839-8460-86147b079592",
+                "resourcePath": "views\\a9ef18b7-3b53-42f3-b995-24dd3fff6550.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -988,6 +1020,14 @@
                 "id": "73744eaf-9cfa-4935-aa65-ab5c9a3fec59",
                 "resourcePath": "views\\eb2daacb-fe64-4604-bb51-a5a5985d65ba.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ef1508db-3d82-49e3-8872-b7dec6ea4b74",
+            "Value": {
+                "id": "1afd8bd0-33d5-4323-8f7a-48893fe8af20",
+                "resourcePath": "sprites\\sp_player_eva_move\\sp_player_eva_move.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
