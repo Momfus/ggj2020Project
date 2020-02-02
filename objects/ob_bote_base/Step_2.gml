@@ -26,3 +26,13 @@ if(		l_playerAbove != noone and
 	}
 	
 }
+
+if( instance_exists(ob_danio)) {
+
+	with(ob_danio) {
+		
+		y += l_boteVspd
+		
+	}
+	
+}
