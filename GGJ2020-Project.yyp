@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "13a822fb-c02d-43b3-9c99-4f5065e45cf8",
+            "Value": {
+                "id": "b431a77c-67c9-48f4-9a7b-a35d4597be9a",
+                "resourcePath": "shaders\\sh_sprite_flash_white\\sh_sprite_flash_white.yy",
+                "resourceType": "GMShader"
+            }
+        },
+        {
             "Key": "2254924c-4cda-4c9b-96b2-68cc067fa89c",
             "Value": {
                 "id": "8abd02da-7f86-48d3-88b0-13519212d01d",
@@ -1127,6 +1135,14 @@
             }
         },
         {
+            "Key": "f34b5c63-66c8-47f8-ad6e-fdd4cd5f5645",
+            "Value": {
+                "id": "989a68e4-31b5-409a-9323-0f5d613d6d46",
+                "resourcePath": "objects\\spawner_danio\\spawner_danio.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f41824d8-ce4b-42a5-a47b-6a45611f13b7",
             "Value": {
                 "id": "20beaf6c-f355-4788-8293-991fecc3e826",
@@ -1196,6 +1212,14 @@
                 "id": "cb0d0451-b25f-4afa-8d59-6e015273a224",
                 "resourcePath": "scripts\\sc_gamepadAnyButtonPress\\sc_gamepadAnyButtonPress.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "ff9506d9-29b3-4116-b913-3f682708266c",
+            "Value": {
+                "id": "54f1f978-1644-4044-9f07-bb50fb04847c",
+                "resourcePath": "sprites\\sp_spawner_danio\\sp_spawner_danio.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],

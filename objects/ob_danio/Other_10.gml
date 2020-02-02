@@ -6,6 +6,6 @@ if( __hits <= 1) {
 	
 }
 
-
+__effectFlashHurtAmount = 3;
 __hits--;
 

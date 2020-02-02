@@ -6,7 +6,10 @@
 __stateCurrent = e_state_player.repair;
 __stateCurrent_step = state_step_player_fix;
 
-__hsp = false; 
+if (place_meeting(x, y + __vsp, parent_collision)) {
+__hsp = 0; 
+
+}
 
 if( __isEva ) { 
 		sprite_index = sp_player_eva_fix; 
@@ -19,4 +22,4 @@ image_index = 0;
 image_speed = 1
 
 // Creacion del hitbox
-__hitboxID = instance_create_layer(x + sign(image_xscale) * 24 , y, global.g_arrayLayerNames[e_layer.hitbox_hurtbox], ob_hitbox)
+__hitboxID = instance_create_layer(x + sign(image_xscale) * 20 , y, global.g_arrayLayerNames[e_layer.hitbox_hurtbox], ob_hitbox)

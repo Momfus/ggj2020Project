@@ -36,3 +36,13 @@ if( instance_exists(ob_danio)) {
 	}
 	
 }
+
+if( instance_exists(spawner_danio)) {
+
+	with(spawner_danio) {
+		
+		y += l_boteVspd
+		
+	}
+	
+}
