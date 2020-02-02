@@ -423,6 +423,14 @@
             }
         },
         {
+            "Key": "7103d374-2fbb-4515-a65d-df56e18b28d1",
+            "Value": {
+                "id": "59e40b76-6f00-4a82-b7fb-e00f81a07b09",
+                "resourcePath": "sprites\\sp_icono_bote\\sp_icono_bote.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "72ed4a48-a777-4628-a1a7-2adf0a5964ef",
             "Value": {
                 "id": "65b95eb0-57fe-4708-b745-9e0a4d9a52e0",
@@ -751,11 +759,27 @@
             }
         },
         {
+            "Key": "a836674b-c0ef-4226-8639-7159f6be5115",
+            "Value": {
+                "id": "0b9f072d-31d9-4031-9aa9-87985861250b",
+                "resourcePath": "views\\a836674b-c0ef-4226-8639-7159f6be5115.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "5ab869d9-863d-4bc3-95ea-74d2a8e7378e",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "a9d6800a-ee24-4dcc-ad2b-44c034c743ee",
+            "Value": {
+                "id": "05160b82-a89c-4ce2-8dec-ce80804ee41d",
+                "resourcePath": "views\\a9d6800a-ee24-4dcc-ad2b-44c034c743ee.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -1047,6 +1071,14 @@
             }
         },
         {
+            "Key": "e1f855e0-2977-4a9a-8d31-6cddc963bb42",
+            "Value": {
+                "id": "6e72eefb-bf8f-4daa-b2d9-4205728fa96a",
+                "resourcePath": "scripts\\sc_draw_rectangle_width\\sc_draw_rectangle_width.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "e2347e31-ce99-4c4e-871e-2d0d2f3f000c",
             "Value": {
                 "id": "220a7e55-b2a0-40c0-a0ae-92188b4a2235",
@@ -1167,6 +1199,14 @@
             }
         },
         {
+            "Key": "f8262e37-e9d7-4cf2-90a3-4fc942a9d6c0",
+            "Value": {
+                "id": "620db20b-24e6-4b10-886f-84aeab3f7c51",
+                "resourcePath": "objects\\control_gameOver\\control_gameOver.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f9fdaf77-abd3-4a70-823b-e95df6229ab6",
             "Value": {
                 "id": "0c3211f8-05b4-4a1d-a7f9-f0b115d037c4",
@@ -1232,6 +1272,7 @@
         "cc2392b4-d972-48ed-a0c9-d6fcd7249156",
         "2d260221-f8ed-4ea3-9ecc-e7d83e9fbf65",
         "895f916a-ffac-49c0-84f2-0b822f6576af",
+        "e1f855e0-2977-4a9a-8d31-6cddc963bb42",
         "7ea8abcc-1e84-474e-91cc-4df50a9ee87c",
         "afc1c1c9-fc6e-40af-a8f3-d7e40604aa3f",
         "f41824d8-ce4b-42a5-a47b-6a45611f13b7",

@@ -6,7 +6,7 @@
 
 	randomize();
 	surface_depth_disable(true); // Al estar considerado el juego como 100% 2D (caso futuro de usar algo 3D hay que sacarlo y usarlo en donde sea necesario)
-	math_set_epsilon(0.1);
+	math_set_epsilon(0.001);
 
 #endregion
 
