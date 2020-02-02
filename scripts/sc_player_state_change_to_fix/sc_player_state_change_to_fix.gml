@@ -6,6 +6,8 @@
 __stateCurrent = e_state_player.repair;
 __stateCurrent_step = state_step_player_fix;
 
+__hsp = false; 
+
 if( __isEva ) { 
 		sprite_index = sp_player_eva_fix; 
 	} else {

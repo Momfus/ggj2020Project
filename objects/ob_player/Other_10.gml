@@ -4,7 +4,7 @@
 __vsp = (__vsp + __grv);
 	
 // Arreglar
- if( __inputID.__actionAttackSecondaryRelease and __stateCurrent != e_state_player.water ) {
+ if( __inputID.__actionAttackSecondaryRelease and __stateCurrent != e_state_player.water and __stateCurrent != e_state_player.repair) {
  
 	sc_player_state_change_to_fix();
 	
