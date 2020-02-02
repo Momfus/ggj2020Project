@@ -17,4 +17,5 @@ __lifeBoteCurrent = 0.1//__lifeBoteMax;
 // Reposicionar si al reiniciar el juego se cambia la resolución
 sc_guiElements_reposition();
 
-alarm[0] = global.g_oneSecond * irandom_range(3, 5);
+alarm[0] = global.g_oneSecond * irandom_range(1, 2);
+

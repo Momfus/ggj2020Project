@@ -1,7 +1,16 @@
 /// @description Game over
 
 instance_destroy(ob_danio);
-instance_destroy(ob_player);
+
+with(ob_player) {
+
+	__stateCurrent = e_state_player.noControl;
+	
+	__stateCurrent_step = state_step_player_noControl;
+	
+	visible = false;
+	
+}
 
 
 with( ob_bote_base ){

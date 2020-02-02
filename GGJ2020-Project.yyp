@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "545380d2-25b9-4922-ba15-1ce22e54c1ee",
+            "Value": {
+                "id": "52a90272-706b-4a7d-9e1b-a1cdd29c5726",
+                "resourcePath": "scripts\\sc_effect_screenShake\\sc_effect_screenShake.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "5513e364-5464-4086-afd1-3290081e4720",
             "Value": {
                 "id": "cc55e6b2-7490-4b1e-9b6d-7b4d13a6a7a0",
@@ -1007,6 +1015,14 @@
             }
         },
         {
+            "Key": "ce385abb-abd8-4c57-a928-37acfc3151dd",
+            "Value": {
+                "id": "c7d8ebfe-487e-4633-965a-cb76e30994d8",
+                "resourcePath": "views\\ce385abb-abd8-4c57-a928-37acfc3151dd.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "d0f4ff65-2bc4-4df8-9dbc-defbe505781c",
             "Value": {
                 "id": "92cbf8b3-e786-4993-a2c4-864bc8a5bf23",
@@ -1302,7 +1318,8 @@
         "0c739602-13a1-41aa-bb1f-533ea333c62c",
         "5ca4ded6-23b9-4342-a5d0-0c60cf094d15",
         "5ab913b1-0d5b-4570-b4fd-f5fd06ae8a94",
-        "0a307fed-7f6c-42a0-95a8-fb8387ea1a9f"
+        "0a307fed-7f6c-42a0-95a8-fb8387ea1a9f",
+        "545380d2-25b9-4922-ba15-1ce22e54c1ee"
     ],
     "tutorial": ""
 }
