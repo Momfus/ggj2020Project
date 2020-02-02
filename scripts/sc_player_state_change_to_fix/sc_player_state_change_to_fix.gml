@@ -6,7 +6,12 @@
 __stateCurrent = e_state_player.repair;
 __stateCurrent_step = state_step_player_fix;
 
-sprite_index = sp_player_peron_fix;
+if( __isEva ) { 
+		sprite_index = sp_player_eva_fix; 
+	} else {
+		sprite_index = sp_player_peron_fix;	
+	}
+	
 image_index = 0;
 
 image_speed = 1

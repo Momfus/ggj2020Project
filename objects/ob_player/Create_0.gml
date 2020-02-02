@@ -1,5 +1,7 @@
 /// @description Inicio atributos
 
+__isEva = choose(true, true, true, false);
+
 #region Atributos Generales
 
 	__bodyCenterOffsetY = -48;
@@ -39,6 +41,12 @@
 
 #region Propiedades sprite
 
+	if( __isEva ) { 
+		sprite_index = sp_player_eva_idle; 
+	} else {
+		sprite_index = sp_player_peron_idle;	
+	}
+	
 	__spriteHalfWidth = sprite_width * 0.5;
 
 	image_speed = 0.5;

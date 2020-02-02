@@ -6,7 +6,12 @@
 __stateCurrent = e_state_player.move;
 __stateCurrent_step = state_step_player_move;
 
-sprite_index = sp_player_peron_move;
+if( __isEva ) { 
+		sprite_index = sp_player_eva_move; 
+	} else {
+		sprite_index = sp_player_peron_move;	
+	}
+	
 image_index = 0;
 
 image_speed = 1.25
