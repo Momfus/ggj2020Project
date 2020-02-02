@@ -10,6 +10,10 @@ __vsp = (__vsp + __grv);
 	and !__isOnFire) {
  
 	sc_player_state_change_to_fix();
+	if not (audio_is_playing(sn_repair) ) {
+		audio_sound_pitch(sn_repair, random_range(1.5, 1.25) )
+		audio_play_sound(sn_repair, 5, false); 
+	}
 	
 	 
  }

@@ -17,6 +17,20 @@ if( __isOnFire ) {
 		event_user(13);
 	
 	}
+	
+	if not (audio_is_playing(sn_splash) ) {
+		audio_sound_pitch(sn_splash, random_range(0.5, 0.75) )
+		audio_play_sound(sn_splash, 5, false); 
+	}
+	
+
+} else {
+
+if not (audio_is_playing(sn_splash) ) {
+		audio_sound_pitch(sn_splash, random_range(1.5, 1.25) )
+		audio_play_sound(sn_splash, 5, false); 
+	}
+	
 
 }
 

@@ -11,5 +11,10 @@ if( !__isOnFire and other.sprite_index == sp_danio_1) {
 		__showJumpToWater = true;
 		event_user(12);
 	}
+	
+	if not (audio_is_playing(sn_onFire) ) {
+		audio_sound_pitch(sn_onFire, random_range(1.0, 1.25) )
+		audio_play_sound(sn_onFire, 10, false); 
+	}
 
 }
